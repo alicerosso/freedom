@@ -1,0 +1,40 @@
+.logo{
+    padding: 0 10px;
+}
+#sidebar-wrapper{
+  background-color: black;
+}
+#sidebar-brand{
+  background-color: rgba(127, 117, 117, 0.423);
+}
+h5{
+  border: 2px solid rgba(179, 178, 178, 0.16);
+  background-color: rgba(179, 178, 178, 0.16);
+  box-shadow: 3px 3px rgba(99, 97, 97, 0.5);
+  border-radius:5px;
+  margin-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-align: center;
+}
+.lead{
+  padding-top: 10px;
+}
+.Prenota{
+  margin-top: 5px;
+}
+.contatti{
+    text-decoration: underline;
+    color: rgba(99, 97, 97, 0.938);
+  }
+  .social{
+    height: 50px;
+    width: 50px;
+  }
+  .link_social{
+    text-decoration: none;
+    color: black;
+  }
+  footer{
+    text-align: center;
+  }
